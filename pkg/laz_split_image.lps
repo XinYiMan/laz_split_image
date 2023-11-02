@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="laz_split_image.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="24" Y="13"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMain"/>
+        <TopLine Value="82"/>
+        <CursorPos X="53" Y="113"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\usplitimage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uSplitImage"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="67"/>
+        <CursorPos X="26" Y="24"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\usecond.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="37"/>
+        <CursorPos X="70" Y="88"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDiffImage"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="83"/>
+        <CursorPos X="50" Y="83"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\utypejpeg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTypeJpeg"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="13" Y="11"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\fpcupdeluxe\20231006\lazarus\lcl\include\rasterimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="390"/>
+        <CursorPos Y="417"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\fpcupdeluxe\20231006\pkg\Codebot.Cross-master\Codebot.Cross-master\source\codebot\codebot.graphics.windows.surfaced2d.pas"/>
+        <UnitName Value="Codebot.Graphics.Windows.SurfaceD2D"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2249"/>
+        <CursorPos X="76" Y="2256"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\fpcupdeluxe\20231006\pkg\Codebot.Cross-master\Codebot.Cross-master\source\codebot\codebot.text.xml.windows.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="15"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="104" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="76" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="21" Column="15" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="75" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="76" Column="86" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="57" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="59" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="60" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="61" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="62" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="65" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="67" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="68" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="69" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="70" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="72" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="76" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="78" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="79" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="106" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="107" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="72" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="75" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="76" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\udiffimage.pas"/>
+        <Caret Line="17" Column="86" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="54" Column="62" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="56" Column="62" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="83" Column="3" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\usecond.pas"/>
+        <Caret Line="90" Column="3" TopLine="37"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

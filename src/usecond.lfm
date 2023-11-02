@@ -1,0 +1,77 @@
+object Form2: TForm2
+  Left = 2650
+  Height = 735
+  Top = 154
+  Width = 956
+  Caption = 'Form2'
+  ClientHeight = 735
+  ClientWidth = 956
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object Image1: TImage
+    Left = 8
+    Height = 296
+    Top = 56
+    Width = 344
+    Proportional = True
+  end
+  object Image2: TImage
+    Left = 456
+    Height = 297
+    Top = 56
+    Width = 328
+    Proportional = True
+  end
+  object Button1: TButton
+    Left = 25
+    Height = 31
+    Top = 7
+    Width = 94
+    Caption = 'Load Img 1'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 477
+    Height = 31
+    Top = 7
+    Width = 94
+    Caption = 'Load Img 2'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Image3: TImage
+    Left = 273
+    Height = 262
+    Top = 458
+    Width = 311
+    Proportional = True
+  end
+  object Button3: TButton
+    Left = 320
+    Height = 31
+    Top = 378
+    Width = 160
+    Caption = 'Get Difference'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 667
+    Height = 31
+    Top = 546
+    Width = 94
+    Caption = 'Save To File'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 664
+    Top = 384
+  end
+  object SaveDialog1: TSaveDialog
+    Left = 730
+    Top = 482
+  end
+end
